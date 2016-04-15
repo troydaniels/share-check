@@ -2,6 +2,7 @@
   Google Script to grab social sharing data for a list of article URLS from the SharePoint API and display it in a Google Sheet
   Troy Daniels
   15/04/16
+  Distributed under the GNU General Public License v3.0
 */
 
 function main(){
